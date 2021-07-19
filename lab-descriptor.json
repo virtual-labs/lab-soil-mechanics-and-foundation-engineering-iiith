@@ -1,0 +1,96 @@
+{
+  "broadArea": {
+    "name": "Civil Engineering",
+    "link": "https://www.vlab.co.in/broad-area-civil-engineering/"
+  },
+  "lab": "Soil Mechanics Lab",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "IIITH",
+  "baseUrl": "smfe-iiith.vlabs.ac.in",
+  "introduction": "Soil is one of the very important engineering materials. Determination of soil conditions is the most significant task in every civil engineering activity. Properties of the soil can be determined by both field and laboratory test methods. It is critical to quantify the various properties of soil in order to predict its behavior under different loading conditions for the safe design of soil structures. The Soil Mechanics and Foundation Engineering Laboratory is a compulsory and basic undergraduate course where introduction to Geo-technical Engineering will be provided and also for graduate level research students. <b/>The use of the Virtual Laboratory allows the students to understand the complexity in the information associated with the laboratory experiments and also to exercise the same in numerous ways in the web which is not easily experimented in the traditional laboratory. Generally, engineering faculty will provide the experimental procedures to student group just before experiment in the lab. With in the virtualization of the laboratory experiments, the students can explore the experimental procedures prior to actually performing it in the laboratory, and are therefore being much more informed on what is to be done in the laboratory and what results to expect.",
+  "experiments": [
+    {
+      "name": "Water Content",
+      "short-name": "water-content",
+      "repo": "https://github.com/virtual-labs/exp-water-content-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Unit Weight",
+      "short-name": "unit-weight",
+      "repo": "https://github.com/virtual-labs/exp-unit-weight-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Specific Gravity",
+      "short-name": "specific-gravity",
+      "repo": "https://github.com/virtual-labs/exp-specific-gravity-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Grain Size Distribution",
+      "short-name": "grain-size-distribuon",
+      "repo": "https://github.com/virtual-labs/exp-grain-size-distribution-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Atterberg Limits",
+      "short-name": "atterberg-limits",
+      "repo": "https://github.com/virtual-labs/exp-atterberg-limits-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Permeability",
+      "short-name": "compaction-test",
+      "repo": "https://github.com/virtual-labs/exp-compaction-test-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Compaction Test",
+      "short-name": "compaction-test",
+      "repo": "https://github.com/virtual-labs/exp-compaction-test-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Consolidation Test",
+      "short-name": "consolidation-test",
+      "repo": "https://github.com/virtual-labs/exp-consolidation-test-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Direct Shear Test",
+      "short-name": "direct-shear-test",
+      "repo": "https://github.com/virtual-labs/exp-direct-shear-test-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Triaxial Test",
+      "short-name": "triaxial-test",
+      "repo": "https://github.com/virtual-labs/exp-triaxial-test-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+  ],
+  "targetAudience": {
+    "UG": ["UG3/UG4 B.Tech Civil Engineering Students"],
+    "PG": ["Postgraduate students and Research scholars"]
+  },
+  "objective": "The main objectives of developing the Soil Mechanics and Foundation Engineering Virtual Lab will be: </br> 1. Students should be able to carry out all Soil Mechanics fundamental experiments according to standards. </br> 2. To analyze and interpret experimental data.</br>3. To understand the techniques, skills and modern engineering tools necessary for engineering practice. In this proposal, different laboratory tests can be developed for conducting the following important experiments to estimate the mechanical and engineering properties of soils.",
+  "courseAlignment": {
+    "description": "To learn and understand the basic concepts of Soil Mechanics Lab",
+    "universities": ["Universities with Civil Engineering"]
+  },
+  "exp_name": "Triaxial Test",
+  "exp_short_name": "triaxial-test",
+  "version": "v0.1.0"
+}
