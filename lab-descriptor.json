@@ -47,8 +47,8 @@
     },
     {
       "name": "Permeability",
-      "short-name": "compaction-test",
-      "repo": "https://github.com/virtual-labs/exp-compaction-test-iiith",
+      "short-name": "permeability",
+      "repo": "https://github.com/virtual-labs/exp-permeability-iiith",
       "tag": "v1.0.0",
       "deploy": true
     },
@@ -92,5 +92,5 @@
   },
   "exp_name": "Triaxial Test",
   "exp_short_name": "triaxial-test",
-  "version": "v0.1.0"
+  "version": "v0.4.0"
 }
