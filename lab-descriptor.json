@@ -4,6 +4,7 @@
     "link": "https://www.vlab.co.in/broad-area-civil-engineering/"
   },
   "lab": "Soil Mechanics",
+  "lab_display_name": "Soil Mechanics",
   "deployLab": true,
   "phase": 2,
   "collegeName": "IIITH",
@@ -35,7 +36,7 @@
       "name": "Grain Size Distribution",
       "short-name": "grain-size-distribution",
       "repo": "https://github.com/virtual-labs/exp-grain-size-distribution-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -92,5 +93,5 @@
   },
   "exp_name": "Triaxial Test",
   "exp_short_name": "triaxial-test",
-  "version": "v0.9.0"
+  "version": "v0.10.0"
 }
