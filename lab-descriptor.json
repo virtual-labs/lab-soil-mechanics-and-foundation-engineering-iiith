@@ -1,7 +1,7 @@
 {
   "broadArea": {
     "name": "Civil Engineering",
-    "link": "https://www.vlab.co.in/broad-area-civil-engineering/"
+    "link": "https://www.vlab.co.in/broad-area-civil-engineering"
   },
   "lab": "Soil Mechanics",
   "lab_display_name": "Soil Mechanics",
@@ -93,5 +93,5 @@
   },
   "exp_name": "Triaxial Test",
   "exp_short_name": "triaxial-test",
-  "version": "v0.12.0"
+  "version": "v0.13.0"
 }
