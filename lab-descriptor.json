@@ -5,7 +5,7 @@
   },
   "lab": "Soil Mechanics",
   "lab_display_name": "Soil Mechanics",
-  "deployLab": true,
+  "deployLab": false,
   "phase": 2,
   "collegeName": "IIITH",
   "baseUrl": "smfe-iiith.vlabs.ac.in",
@@ -16,70 +16,70 @@
       "short-name": "water-content",
       "repo": "https://github.com/virtual-labs/exp-water-content-iiith",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Unit Weight",
       "short-name": "unit-weight",
       "repo": "https://github.com/virtual-labs/exp-unit-weight-iiith",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Specific Gravity",
       "short-name": "specific-gravity",
       "repo": "https://github.com/virtual-labs/exp-specific-gravity-iiith",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Grain Size Distribution",
       "short-name": "grain-size-distribution",
       "repo": "https://github.com/virtual-labs/exp-grain-size-distribution-iiith",
       "tag": "v1.0.2",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Atterberg Limits",
       "short-name": "atterberg-limits",
       "repo": "https://github.com/virtual-labs/exp-atterberg-limits-iiith",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Permeability",
       "short-name": "permeability",
       "repo": "https://github.com/virtual-labs/exp-permeability-iiith",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Compaction Test",
       "short-name": "compaction-test",
       "repo": "https://github.com/virtual-labs/exp-compaction-test-iiith",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Consolidation Test",
       "short-name": "consolidation-test",
       "repo": "https://github.com/virtual-labs/exp-consolidation-test-iiith",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Direct Shear Test",
       "short-name": "direct-shear-test",
       "repo": "https://github.com/virtual-labs/exp-direct-shear-test-iiith",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Triaxial Test",
       "short-name": "triaxial-test",
       "repo": "https://github.com/virtual-labs/exp-triaxial-test-iiith",
       "tag": "v1.0.1",
-      "deploy": true
+      "deploy": false
     }
   ],
   "targetAudience": {
@@ -93,5 +93,5 @@
   },
   "exp_name": "Triaxial Test",
   "exp_short_name": "triaxial-test",
-  "version": "v0.14.0"
+  "version": "v0.15.0"
 }
