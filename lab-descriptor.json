@@ -1,11 +1,12 @@
 {
   "broadArea": {
     "name": "Civil Engineering",
-    "link": "https://www.vlab.co.in/broad-area-civil-engineering"
+    "link": "https://www.vlab.co.in/broad-area-civil-engineering",
+    "code":"CIVIL"
   },
   "lab": "Soil Mechanics",
   "lab_display_name": "Soil Mechanics",
-  "deployLab": false,
+  "deployLab": true,
   "phase": 2,
   "collegeName": "IIITH",
   "baseUrl": "smfe-iiith.vlabs.ac.in",
@@ -16,70 +17,70 @@
       "short-name": "water-content",
       "repo": "https://github.com/virtual-labs/exp-water-content-iiith",
       "tag": "v1.0.1",
-      "deploy": false
+      "deploy": true
     },
     {
       "name": "Unit Weight",
       "short-name": "unit-weight",
       "repo": "https://github.com/virtual-labs/exp-unit-weight-iiith",
       "tag": "v1.0.1",
-      "deploy": false
+      "deploy": true
     },
     {
       "name": "Specific Gravity",
       "short-name": "specific-gravity",
       "repo": "https://github.com/virtual-labs/exp-specific-gravity-iiith",
       "tag": "v1.0.1",
-      "deploy": false
+      "deploy": true
     },
     {
       "name": "Grain Size Distribution",
       "short-name": "grain-size-distribution",
       "repo": "https://github.com/virtual-labs/exp-grain-size-distribution-iiith",
       "tag": "v1.0.2",
-      "deploy": false
+      "deploy": true
     },
     {
       "name": "Atterberg Limits",
       "short-name": "atterberg-limits",
       "repo": "https://github.com/virtual-labs/exp-atterberg-limits-iiith",
       "tag": "v1.0.1",
-      "deploy": false
+      "deploy": true
     },
     {
       "name": "Permeability",
       "short-name": "permeability",
       "repo": "https://github.com/virtual-labs/exp-permeability-iiith",
       "tag": "v1.0.1",
-      "deploy": false
+      "deploy": true
     },
     {
       "name": "Compaction Test",
       "short-name": "compaction-test",
       "repo": "https://github.com/virtual-labs/exp-compaction-test-iiith",
       "tag": "v1.0.1",
-      "deploy": false
+      "deploy": true
     },
     {
       "name": "Consolidation Test",
       "short-name": "consolidation-test",
       "repo": "https://github.com/virtual-labs/exp-consolidation-test-iiith",
       "tag": "v1.0.1",
-      "deploy": false
+      "deploy": true
     },
     {
       "name": "Direct Shear Test",
       "short-name": "direct-shear-test",
       "repo": "https://github.com/virtual-labs/exp-direct-shear-test-iiith",
       "tag": "v1.0.1",
-      "deploy": false
+      "deploy": true
     },
     {
       "name": "Triaxial Test",
       "short-name": "triaxial-test",
       "repo": "https://github.com/virtual-labs/exp-triaxial-test-iiith",
       "tag": "v1.0.1",
-      "deploy": false
+      "deploy": true
     }
   ],
   "targetAudience": {
@@ -90,8 +91,5 @@
   "courseAlignment": {
     "description": "To learn and understand the basic concepts of Soil Mechanics Lab",
     "universities": ["Universities with Civil Engineering"]
-  },
-  "exp_name": "Triaxial Test",
-  "exp_short_name": "triaxial-test",
-  "version": "v0.20.0"
+  }
 }
